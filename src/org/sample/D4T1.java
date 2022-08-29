@@ -13,6 +13,7 @@ public class D4T1 {
 		}
 		else {
 			System.out.println("Not Eligible for voting");	
+			System.out.println("For the Git updation");
 			}
 		
 	}
